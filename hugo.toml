@@ -1,0 +1,4 @@
+baseURL = 'https://justiciaenlapicota.app/'
+languageCode = 'es-es'
+title = 'La justicia española en la picota y otros rollos jurisdiccionales'
+theme = 'ananke'
