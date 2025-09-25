@@ -1,6 +1,6 @@
 +++
 date = '2025-09-25T00:21:26+02:00'
-draft = true
+draft = false
 title = 'La justicia en la picota'
 +++
 ## La justicia española en la picota y otros rollos jurisdiccionales
